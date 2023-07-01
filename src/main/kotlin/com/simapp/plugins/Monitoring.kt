@@ -1,4 +1,4 @@
-package com.example.plugins
+package com.simapp.plugins
 
 import io.ktor.server.plugins.callloging.*
 import org.slf4j.event.*
